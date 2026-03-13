@@ -102,7 +102,7 @@ ol li {
 }
 
 .btn-learn:hover {
-    background-color: #d1c5b8;
+    background-color: #9c7448;
 }
 
 
@@ -111,11 +111,4 @@ ol li {
     height: auto;
     border-radius: 40% 60% 40% 60% / 60% 40% 60% 40%;
     object-fit: cover;
-}
-
-
-@media (max-width: 768px) {
-    .experience-section {
-        flex-direction: column;
-    }
 }
